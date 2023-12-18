@@ -4,7 +4,7 @@ Solution with python
 
 * Equation
 
-$$  {k d^2 T\over dx^2} V(x) = {\rho_0 \over \epsilon_0 \epsilon_r}  $$
+$$  k{ d^2 T\over dx^2} V(x) = {\rho_0 \over \epsilon_0 \epsilon_r}  $$
 
 ## Reference
 Polycarpou, Anastasis C. Introduction to the finite element method in electromagnetics. Springer Nature, 2022.
